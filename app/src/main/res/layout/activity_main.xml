@@ -29,7 +29,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:fontFamily="@font/nanumsquare"
-        android:text="홀덤 라운드 카운팅 어플"
+        android:text="홀덤 라운드 카운팅 솔루션"
         android:textAppearance="@style/TextAppearance.AppCompat.Medium"
         android:textColor="#DAD5D5"
         android:textStyle="bold"
